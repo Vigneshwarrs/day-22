@@ -1,6 +1,4 @@
 
-import './App.css';
-
 function App() {
   const data = [{
     title: "Free",
