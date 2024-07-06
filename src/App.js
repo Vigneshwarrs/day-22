@@ -8,12 +8,12 @@ function App() {
   },{
     title: "Plus",
     price: "$9/month",
-    features : ['Single User', '50GB Storage', 'Unlimited Public Projects', 'Community Access','Unlimited private Projects','Delicated Project Support','Fee subdomain'],
+    features : ['5 Users', '50GB Storage', 'Unlimited Public Projects', 'Community Access','Unlimited private Projects','Delicated Project Support','Fee subdomain'],
     notFeature: ['Monthly Status Report']
   },{
     title: "Pro",
     price: "$49/month",
-    features : ['Single User', '50GB Storage', 'Unlimited Public Projects', 'Community Access', 'Unlimited private Projects','Delicated Project Support','Fee subdomain', 'Monthly Status Report'],
+    features : ['Unlimited Users', '50GB Storage', 'Unlimited Public Projects', 'Community Access', 'Unlimited private Projects','Delicated Project Support','Fee subdomain', 'Monthly Status Report'],
     notFeature: []
   }]
 
