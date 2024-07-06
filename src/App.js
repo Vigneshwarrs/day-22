@@ -20,7 +20,7 @@ function App() {
 
 
   return (
-    <div className="App" style={{display:"flex", justifyContent:"space-around", alignItems:"center", backgroundColor:"blue", height:"100vh"}}>
+    <div className="App" style={{display:"flex", justifyContent:"space-around", alignItems:"center", backgroundColor:"blue", height:"100vh", textAlign:"center"}}>
       {
         data.map((d)=>(<Card key={d.title} obj={d}/>))
       }
